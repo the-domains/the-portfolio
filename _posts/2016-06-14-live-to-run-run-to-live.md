@@ -10,30 +10,29 @@ publisher:
   favicon: 'http://xlbrooklyn.blogspot.com/favicon.ico'
   domain: xlbrooklyn.blogspot.com
 keywords:
-  - cancer
-  - tumor
-  - creatinine
+  - kenna
   - transplant
-  - chemo
-  - kidney
-  - stool
-  - disease
-  - changes
-  - hella-competent
+  - volunteer
+  - donor
+  - liveonny
+  - organs
+  - donation
+  - yesterday
+  - registrants
+  - believe
 description: >-
-  Post-transplant day 865. --Destination unknown.-- For the first time in my
-  life, I have no idea where I'm going. Duke Admissions February-March 2016.
-  February 18th thru 23rd for 1) high creatinine detected by both UNC [4.7] and
-  Duke [4.9] on the 16th and 17th, respectively; 2) high blood pressure, noted
-  on admission; 3) blood in stool.
+  Post-transplant day #666. Dis-Belief. "I don't believe in organ donation." I
+  heard that from the rotund, grey-haired, well-dressed man in front me. As a
+  volunteer yesterday for LiveOnNY's state-wide Registration Day, I was helping
+  man a table in the lobby of NYU Lutheran.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://xlbrooklyn.blogspot.com/2016/04/destination-unknown.html'
+isBasedOnUrl: 'http://xlbrooklyn.blogspot.com/2015/10/dis-belief.html'
 title: Live to Run - Run to Live
-datePublished: '2016-06-14T02:53:04.000Z'
-dateModified: '2016-06-14T02:46:54.660Z'
-starred: false
+datePublished: '2016-06-14T02:54:04.635Z'
+dateModified: '2016-06-14T02:54:04.208Z'
 sourcePath: _posts/2016-06-14-live-to-run-run-to-live.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -41,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Live to Run - Run to Live</h1><p>Post-transplant day 865. --Destination unknown.-- For the first time in my life, I have no idea where I'm going. Duke Admissions February-March 2016. February 18th thru 23rd for 1) high creatinine detected by both UNC [4.7] and Duke [4.9] on the 16th and 17th, respectively; 2) high blood pressure, noted on admission; 3) blood in stool.</p><img src="https://4.bp.blogspot.com/-yEFwFybndh0/VyFq09xjjzI/AAAAAAAADLY/oeRmqnpY7_MmJCUO2AyC4Xa3vL2i93uAACLcB/w1200-h630-p-nu/2016-02-28%2B11.35.30.jpg" /></article>
+<article style=""><h1>Live to Run - Run to Live</h1><p>Post-transplant day #666. Dis-Belief. "I don't believe in organ donation." I heard that from the rotund, grey-haired, well-dressed man in front me. As a volunteer yesterday for LiveOnNY's state-wide Registration Day, I was helping man a table in the lobby of NYU Lutheran.</p></article>
