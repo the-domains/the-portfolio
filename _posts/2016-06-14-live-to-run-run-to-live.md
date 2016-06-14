@@ -10,27 +10,27 @@ publisher:
   favicon: 'http://xlbrooklyn.blogspot.com/favicon.ico'
   domain: xlbrooklyn.blogspot.com
 keywords:
-  - kenna
-  - transplant
-  - volunteer
   - donor
-  - liveonny
-  - organs
-  - donation
-  - yesterday
-  - registrants
-  - believe
+  - families
+  - transplant
+  - recipients
+  - ones
+  - living
+  - life
+  - nobility
+  - luncheon
+  - 'true'
 description: >-
-  Post-transplant day #666. Dis-Belief. "I don't believe in organ donation." I
-  heard that from the rotund, grey-haired, well-dressed man in front me. As a
-  volunteer yesterday for LiveOnNY's state-wide Registration Day, I was helping
-  man a table in the lobby of NYU Lutheran.
+  Post-transplant day #685. Survivors and heroes. There are just some days where
+  I am absolutely humbled. Times when the face of true grace is revealed to me,
+  when something divine is on display and if I pay attention, I'll learn
+  something about what it means to be human.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://xlbrooklyn.blogspot.com/2015/10/dis-belief.html'
+isBasedOnUrl: 'http://xlbrooklyn.blogspot.com/2015/10/survivors-and-heroes.html'
 title: Live to Run - Run to Live
-datePublished: '2016-06-14T02:53:03.995Z'
-dateModified: '2016-06-14T02:52:15.851Z'
+datePublished: '2016-06-14T02:53:03.987Z'
+dateModified: '2016-06-14T02:47:37.992Z'
 starred: false
 sourcePath: _posts/2016-06-14-live-to-run-run-to-live.md
 inFeed: true
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Live to Run - Run to Live</h1><p>Post-transplant day #666. Dis-Belief. "I don't believe in organ donation." I heard that from the rotund, grey-haired, well-dressed man in front me. As a volunteer yesterday for LiveOnNY's state-wide Registration Day, I was helping man a table in the lobby of NYU Lutheran.</p></article>
+<article style=""><h1>Live to Run - Run to Live</h1><p>Post-transplant day #685. Survivors and heroes. There are just some days where I am absolutely humbled. Times when the face of true grace is revealed to me, when something divine is on display and if I pay attention, I'll learn something about what it means to be human.</p></article>
