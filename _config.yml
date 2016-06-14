@@ -1,5 +1,6 @@
-layout_spectrum: 0.5511638447642326
 typography_spectrum: 0.5461899191141129
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9276704131625593
   lightness: 0.8254591906443238
@@ -11,4 +12,10 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.5511638447642326
+author:
+  name: Cristopher Dopher
+  email: crisdopher@mac.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/35552173-933c-42fb-8aaa-5b608811cbeb.png
 name: the Portfolio
