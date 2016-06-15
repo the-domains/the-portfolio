@@ -29,10 +29,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://xlbrooklyn.blogspot.com/2015/10/dis-belief.html'
 title: Live to Run - Run to Live
-datePublished: '2016-06-15T03:49:10.125Z'
-dateModified: '2016-06-14T02:54:09.731Z'
+datePublished: '2016-06-15T03:54:49.115Z'
+dateModified: '2016-06-15T03:54:48.816Z'
 sourcePath: _posts/2016-06-14-live-to-run-run-to-live.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
